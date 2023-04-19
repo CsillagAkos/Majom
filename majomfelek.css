@@ -1,0 +1,17 @@
+div{
+    background-color: olivedrab;
+   color: palevioletred;
+   font-weight: bold;
+   font-size: larger;
+   height: 200cm;
+   width: 80%;
+   text-align: center;
+   margin: auto;
+}
+body{
+    background-color: forestgreen;
+}
+li{
+    padding: 5px;
+    
+}
